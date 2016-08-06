@@ -44,3 +44,9 @@ button#download-button img {
   -moz-box-shadow: none;
 }
 
+span#dates {
+  float: right;
+}
+
+span#company {
+}
